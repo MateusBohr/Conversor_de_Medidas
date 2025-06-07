@@ -22,3 +22,4 @@ No futuro, pretendo adicionar:
 ## Tecnologias utilizadas
 
 - Java
+Atualizado em 07/06/2025 
